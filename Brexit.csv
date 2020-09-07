@@ -1,0 +1,651 @@
+Name,Leave
+Boston and Skegness,0.7565
+Walsall North,0.7419
+Clacton,0.7304
+South Basildon and East Thurrock,0.73
+Kingston upon Hull East,0.7283
+Castle Point,0.727
+Stoke-on-Trent North,0.7212
+Doncaster North,0.7165
+Great Yarmouth,0.715
+Great Grimsby,0.7145
+Dudley North,0.7143
+Stoke-on-Trent South,0.7111
+South Holland and The Deepings,0.7107
+Barnsley East,0.7098
+Mansfield,0.7086
+Ashfield,0.7047
+Dudley South,0.7042
+Bolsover,0.7039
+Dagenham and Rainham,0.7035
+Wentworth and Dearne,0.7028
+Thurrock,0.7026
+Hartlepool,0.6957
+Cleethorpes,0.695
+Hornchurch and Upminster,0.6949
+North East Cambridgeshire,0.6935
+Romford,0.6929
+"Normanton, Pontefract and Castleford",0.6926
+Louth and Horncastle,0.689
+Cannock Chase,0.6886
+Scunthorpe,0.6868
+West Bromwich West,0.6867
+Don Valley,0.6849
+Rotherham,0.6835
+Bassetlaw,0.6832
+Barnsley Central,0.6819
+West Bromwich East,0.6818
+Wolverhampton South East,0.6814
+Hemsworth,0.6813
+Kingston upon Hull West and Hessle,0.6799
+Blackpool South,0.6781
+Aldridge-Brownhills,0.678
+North Warwickshire,0.6776
+Harlow,0.6773
+Wolverhampton North East,0.6771
+Redcar,0.6767
+Rayleigh and Wickford,0.6765
+Basildon and Billericay,0.6714
+Blackpool North and Cleveleys,0.6691
+Rother Valley,0.6672
+Doncaster Central,0.667
+South West Norfolk,0.6667
+Burnley,0.6661
+Halesowen and Rowley Regis,0.6659
+"Plymouth, Moor View",0.6644
+Stockton North,0.6632
+Sheffield South East,0.6632
+Brigg and Goole,0.6623
+Telford,0.6619
+Middlesbrough,0.6608
+Tamworth,0.6599
+Easington,0.6596
+Hyndburn,0.6582
+North West Norfolk,0.6578
+Broxbourne,0.6553
+Gravesham,0.6538
+Sittingbourne and Sheppey,0.6536
+Amber Valley,0.653
+Middlesbrough South and East Cleveland,0.6527
+Bexleyheath and Crayford,0.6526
+South Staffordshire,0.6524
+North Thanet,0.6518
+Makerfield,0.6491
+Stoke-on-Trent Central,0.6485
+Burton,0.6479
+Bognor Regis and Littlehampton,0.6479
+Staffordshire Moorlands,0.6469
+Nuneaton,0.6451
+St Austell and Newquay,0.6406
+Dartford,0.6398
+Chatham and Aylesford,0.6391
+Nottingham North,0.6381
+Portsmouth North,0.6369
+Rochester and Strood,0.6369
+Stourbridge,0.6366
+East Yorkshire,0.6366
+Sherwood,0.6366
+Gillingham and Rainham,0.6358
+Bradford South,0.6356
+Waveney,0.6341
+Leigh,0.6329
+West Suffolk,0.6325
+Erewash,0.6322
+Pendle,0.6315
+Wyre Forest,0.6315
+Bolton South East,0.6303
+Wellingborough,0.6302
+Dover,0.6301
+"Birmingham, Erdington",0.63
+Wigan,0.6296
+Wakefield,0.6277
+Peterborough,0.6268
+Havant,0.6262
+Torbay,0.6245
+Houghton and Sunderland South,0.6243
+Old Bexley and Sidcup,0.6243
+Heywood and Middleton,0.6243
+North Antrim,0.6222
+Bridgwater and West Somerset,0.6206
+South Shields,0.6205
+North East Derbyshire,0.6205
+Blaenau Gwent,0.6203
+Gainsborough,0.6196
+Isle of Wight,0.6195
+Washington and Sunderland West,0.6185
+Gosport,0.6182
+Ashton-under-Lyne,0.6181
+"Birmingham, Northfield",0.618
+Swansea East,0.6179
+Jarrow,0.6178
+South Thanet,0.6169
+Newcastle-under-Lyme,0.6164
+Folkestone and Hythe,0.6164
+Walsall South,0.6164
+Warley,0.6163
+Sleaford and North Hykeham,0.6158
+Braintree,0.6152
+Leeds East,0.6144
+Derby South,0.6135
+Scarborough and Whitby,0.6132
+Oldham West and Royton,0.6131
+Brentwood and Ongar,0.6119
+Epping Forest,0.6101
+Workington,0.6101
+Grantham and Stamford,0.61
+Redditch,0.6099
+Kettering,0.6099
+Denton and Reddish,0.6098
+Maldon,0.6096
+Rochford and Southend East,0.6092
+Bishop Auckland,0.6089
+Bosworth,0.6083
+Torfaen,0.6078
+North West Leicestershire,0.607
+Penistone and Stocksbridge,0.6065
+Carlisle,0.6064
+Mid Norfolk,0.606
+Blyth Valley,0.6049
+Witham,0.6047
+Rhondda,0.6045
+Hereford and South Herefordshire,0.6042
+South Derbyshire,0.6035
+North Durham,0.603
+Spelthorne,0.603
+"Southampton, Itchen",0.6029
+Crewe and Nantwich,0.6029
+Northampton North,0.6027
+North Cornwall,0.6019
+New Forest East,0.6018
+Corby,0.6015
+Aberavon,0.6012
+"Birmingham, Yardley",0.601
+Barking,0.5997
+"Sheffield, Brightside and Hillsborough",0.5997
+Christchurch,0.5996
+Sunderland Central,0.5994
+Oldham East and Saddleworth,0.5992
+Clwyd South,0.5988
+Yeovil,0.5987
+Ashford,0.5986
+North Shropshire,0.5985
+Morley and Outwood,0.5982
+Worsley and Eccles South,0.5979
+Kingston upon Hull North,0.5979
+Batley and Spen,0.5963
+North Tyneside,0.5952
+South Dorset,0.5945
+Sedgefield,0.5944
+Mid Worcestershire,0.5939
+Newport East,0.5933
+The Wrekin,0.5932
+Chesterfield,0.5929
+Stalybridge and Hyde,0.5929
+Copeland,0.592
+Luton North,0.5915
+Harwich and North Essex,0.59
+Northampton South,0.59
+Islwyn,0.5894
+Rossendale and Darwen,0.5894
+Ogmore,0.589
+Halifax,0.5882
+Gloucester,0.5881
+Meriden,0.5881
+Beverley and Holderness,0.5874
+Ribble Valley,0.5873
+Faversham and Mid Kent,0.5867
+Rugby,0.5862
+Daventry,0.5859
+Crawley,0.5841
+Camborne and Redruth,0.5841
+North Norfolk,0.584
+St Helens North,0.5839
+Coventry North West,0.5837
+Merthyr Tydfil and Rhymney,0.5835
+Ellesmere Port and Neston,0.5834
+Hayes and Harlington,0.5825
+Morecambe and Lunesdale,0.5819
+South Leicestershire,0.5814
+Bolton North East,0.5811
+Darlington,0.581
+South West Bedfordshire,0.5808
+Warrington North,0.5807
+Alyn and Deeside,0.5805
+North Herefordshire,0.5802
+Aldershot,0.579
+Forest of Dean,0.5789
+Ludlow,0.5788
+Charnwood,0.5787
+Tiverton and Honiton,0.5782
+Coventry North East,0.5777
+Stockton South,0.5776
+Bournemouth West,0.5773
+Bexhill and Battle,0.5772
+Halton,0.5767
+Selby and Ainsty,0.5765
+Wrexham,0.5757
+Eastbourne,0.5754
+Orpington,0.5754
+Stone,0.5754
+Lichfield,0.5751
+Stafford,0.5746
+Rochdale,0.5745
+Lincoln,0.5743
+Poole,0.5742
+North Swindon,0.5729
+Barrow and Furness,0.5728
+Weston-Super-Mare,0.572
+Torridge and West Devon,0.5719
+Uxbridge and South Ruislip,0.5719
+"Sheffield, Heeley",0.5716
+Dewsbury,0.5715
+Kingswood,0.5712
+Mid Dorset and North Poole,0.5708
+North Devon,0.5704
+Stevenage,0.5704
+North West Cambridgeshire,0.5693
+South West Wiltshire,0.5688
+Newcastle upon Tyne North,0.5683
+Elmet and Rothwell,0.5679
+Chorley,0.5675
+Cynon Valley,0.5673
+Fylde,0.5673
+Norwich North,0.5673
+Llanelli,0.5667
+South Ribble,0.5664
+North Dorset,0.5661
+Vale of Clwyd,0.5656
+Ipswich,0.5652
+Thirsk and Malton,0.5643
+Gedling,0.563
+Wansbeck,0.5629
+Carshalton and Wallington,0.5626
+Gateshead,0.5622
+Blaydon,0.5612
+St Helens South and Whiston,0.5605
+Worthing West,0.5602
+Newton Abbot,0.5601
+Hastings and Rye,0.5594
+Feltham and Heston,0.5593
+Maidstone and The Weald,0.5592
+Montgomeryshire,0.5584
+Newark,0.557
+Preston,0.5567
+Bolton West,0.5555
+Strangford,0.5553
+Fareham,0.5552
+Hemel Hempstead,0.5549
+Bromsgrove,0.5537
+Preseli Pembrokeshire,0.5532
+Berwick-upon-Tweed,0.553
+New Forest West,0.5526
+Haltemprice and Howden,0.5523
+Suffolk Coastal,0.5521
+Penrith and The Border,0.552
+East Antrim,0.5519
+Carmarthen West and South Pembrokeshire,0.5516
+Bradford East,0.5516
+Caerphilly,0.5514
+South East Cornwall,0.551
+South West Devon,0.5508
+Southend West,0.5507
+North West Durham,0.5505
+West Lancashire,0.5495
+Central Suffolk and North Ipswich,0.5489
+Bootle,0.548
+St Ives,0.5477
+North West Hampshire,0.5475
+Richmond (Yorks),0.5471
+Erith and Thamesmead,0.5463
+Luton South,0.546
+Bury South,0.5451
+Delyn,0.5441
+"Plymouth, Sutton and Devonport",0.5441
+Wolverhampton South West,0.5437
+Eastleigh,0.5435
+Derby North,0.5425
+East Surrey,0.542
+Wyre and Preston North,0.542
+Broadland,0.541
+Leicester East,0.5406
+Slough,0.5406
+Sevenoaks,0.5404
+South Suffolk,0.5403
+Neath,0.5402
+Bury St Edmunds,0.5399
+Totnes,0.5389
+Rutland and Melton,0.5388
+Blackburn,0.5373
+Bournemouth East,0.5369
+East Worthing and Shoreham,0.5368
+Worcester,0.5368
+Bury North,0.5367
+Newport West,0.5366
+Tewkesbury,0.5365
+Wells,0.5363
+Basingstoke,0.536
+Banff and Buchan,0.5359
+Salford and Eccles,0.5359
+Devizes,0.5353
+Huntingdon,0.5349
+North East Bedfordshire,0.5344
+Solihull,0.5335
+South Northamptonshire,0.5334
+Keighley,0.5333
+Ilford North,0.5331
+Leeds West,0.5327
+Bracknell,0.5324
+Carmarthen East and Dinefwr,0.5321
+Skipton and Ripon,0.5319
+Calder Valley,0.5316
+Lagan Valley,0.5309
+Milton Keynes South,0.5308
+Clwyd West,0.5301
+Taunton Deane,0.5292
+Shrewsbury and Atcham,0.5292
+Mid Bedfordshire,0.5288
+Tonbridge and Malling,0.5286
+Welwyn Hatfield,0.5282
+Wealden,0.5277
+Upper Bann,0.5262
+Congleton,0.5261
+Vale of Glamorgan,0.5255
+West Worcestershire,0.5252
+Broxtowe,0.5251
+Mid Derbyshire,0.5247
+Harborough,0.5237
+Knowsley,0.5234
+Shipley,0.5221
+Hazel Grove,0.5221
+Aberconwy,0.522
+Thornbury and Yate,0.5219
+"Liverpool, Walton",0.5217
+Eddisbury,0.5217
+Lancaster and Fleetwood,0.5199
+Bedford,0.5195
+Belfast East,0.5194
+Meon Valley,0.5193
+Brecon and Radnorshire,0.5186
+Surrey Heath,0.5185
+Huddersfield,0.5185
+Eltham,0.5182
+Aylesbury,0.5179
+Portsmouth South,0.5176
+Birkenhead,0.5171
+Sutton Coldfield,0.517
+South Swindon,0.5165
+North East Somerset,0.5163
+Chippenham,0.5159
+Colchester,0.5151
+Reading West,0.5151
+"Birmingham, Hodge Hill",0.515
+North East Hertfordshire,0.5143
+"Caithness, Sutherland and Easter Ross",0.5134
+Sutton and Cheam,0.5128
+Saffron Walden,0.5124
+Derbyshire Dales,0.5124
+"Birmingham, Perry Barr",0.512
+Watford,0.5115
+Warrington South,0.5111
+West Dorset,0.5104
+Stratford-on-Avon,0.51
+Ynys Mon,0.5094
+Central Devon,0.5089
+South Norfolk,0.5088
+Hertsmere,0.5084
+Leicester West,0.5084
+Chichester,0.5073
+Chelmsford,0.5068
+Weaver Vale,0.5055
+High Peak,0.5055
+East Devon,0.5041
+Coventry South,0.5038
+Banbury,0.5035
+Somerton and Frome,0.5033
+Croydon Central,0.5031
+North Wiltshire,0.503
+Bridgend,0.5028
+Loughborough,0.5009
+Colne Valley,0.5006
+Blackley and Broughton,0.5004
+Wallasey,0.4992
+Salisbury,0.4991
+Chingford and Woodford Green,0.4988
+Moray,0.4987
+Runnymede and Weybridge,0.4985
+Bromley and Chislehurst,0.4983
+"Liverpool, West Derby",0.4982
+Arundel and South Downs,0.497
+Milton Keynes North,0.4967
+Wythenshawe and Sale East,0.4965
+Belfast North,0.4964
+"Ruislip, Northwood and Pinner",0.4954
+Horsham,0.4949
+"Southampton, Test",0.4941
+Gower,0.4931
+East Hampshire,0.4927
+Hertford and Stortford,0.4924
+Enfield North,0.4922
+Beaconsfield,0.4901
+Stretford and Urmston,0.4891
+Buckingham,0.4887
+Filton and Bradley Stoke,0.4877
+Pudsey,0.4858
+Wycombe,0.4846
+Angus,0.4824
+Monmouth,0.4806
+Newcastle upon Tyne Central,0.48
+Reigate,0.4798
+East Londonderry,0.4797
+West Ham,0.4797
+Garston and Halewood,0.4796
+The Cotswolds,0.4792
+Newbury,0.4781
+Epsom and Ewell,0.4778
+North Down,0.4764
+Tynemouth,0.4764
+Glenrothes,0.4761
+North Somerset,0.4758
+Harrow East,0.4748
+Dwyfor Meirionnydd,0.4743
+Mole Valley,0.4731
+"Birmingham, Edgbaston",0.473
+Macclesfield,0.4718
+Harrogate and Knaresborough,0.4718
+Lewes,0.4714
+Bristol South,0.4714
+Westmorland and Lonsdale,0.4706
+"Birmingham, Selly Oak",0.469
+Bristol East,0.468
+Stockport,0.4679
+Bradford West,0.4674
+Windsor,0.4666
+Beckenham,0.4658
+Wirral South,0.4655
+Pontypridd,0.4651
+Nottingham South,0.4647
+Wantage,0.4646
+Mid Sussex,0.4644
+Witney,0.4634
+Southport,0.4629
+East Ham,0.4627
+Ealing North,0.4626
+Kenilworth and Southam,0.4621
+South West Hertfordshire,0.462
+North East Hampshire,0.4618
+Romsey and Southampton North,0.4608
+Leeds Central,0.4596
+Stroud,0.4586
+Truro and Falmouth,0.4585
+Croydon South,0.4581
+Tatton,0.4563
+Edmonton,0.4551
+Ceredigion,0.4537
+Hexham,0.4534
+Canterbury,0.4533
+South East Cambridgeshire,0.453
+Dumfries and Galloway,0.4511
+Harrow West,0.4506
+Maidenhead,0.4503
+Chesham and Amersham,0.4498
+Exeter,0.4483
+Na h-Eileanan an Iar,0.4476
+Wirral West,0.4469
+Mitcham and Morden,0.4469
+York Outer,0.4467
+Tunbridge Wells,0.4465
+"Dumfriesshire, Clydesdale and Tweeddale",0.4465
+Gordon,0.4429
+Woking,0.4425
+"Ayr, Carrick and Cumnock",0.4411
+Sefton Central,0.4409
+Glasgow East,0.4384
+Cardiff West,0.4382
+"Brighton, Kemptown",0.4359
+"Ross, Skye and Lochaber",0.4349
+Swansea West,0.434
+City of Durham,0.4334
+Ilford South,0.4331
+Brentford and Isleworth,0.4331
+Kirkcaldy and Cowdenbeath,0.4326
+Livingston,0.4326
+"Berwickshire, Roxburgh and Selkirk",0.4326
+Aberdeen North,0.4309
+Henley,0.4309
+Cheltenham,0.429
+Brent Central,0.4289
+Nottingham East,0.4288
+Cardiff South and Penarth,0.4282
+Wokingham,0.4269
+Cheadle,0.4265
+Brent North,0.4261
+Leicester South,0.4244
+North Ayrshire and Arran,0.424
+City of Chester,0.4228
+Falkirk,0.4211
+Linlithgow and East Falkirk,0.4202
+"Ealing, Southall",0.4183
+Warwick and Leamington,0.4164
+Central Ayrshire,0.4162
+Bristol North West,0.416
+Hendon,0.4157
+Esher and Walton,0.4157
+Rushcliffe,0.4147
+Fermanagh and South Tyrone,0.4144
+Guildford,0.412
+South Antrim,0.4118
+Croydon North,0.4117
+Chipping Barnet,0.4107
+Newcastle upon Tyne East,0.4107
+Glasgow South West,0.4086
+Kingston and Surbiton,0.4084
+South West Surrey,0.4075
+Dundee West,0.4075
+Glasgow North East,0.4066
+Norwich South,0.4053
+Orkney and Shetland,0.4028
+"Inverness, Nairn, Badenoch and Strathspey",0.4013
+Perth and North Perthshire,0.399
+Airdrie and Shotts,0.3984
+Hitchin and Harpenden,0.3979
+Winchester,0.3964
+Mid Ulster,0.3961
+Ochil and South Perthshire,0.395
+Kilmarnock and Loudoun,0.3945
+Argyll and Bute,0.3943
+Dunfermline and West Fife,0.3939
+West Aberdeenshire and Kincardine,0.3917
+Cardiff North,0.3915
+York Central,0.3882
+"Coatbridge, Chryston and Bellshill",0.3878
+Altrincham and Sale West,0.3859
+South Cambridgeshire,0.3849
+Dundee East,0.3841
+Reading East,0.3825
+"Manchester, Gorton",0.3821
+Oxford West and Abingdon,0.3803
+West Dunbartonshire,0.3801
+Midlothian,0.3794
+"Enfield, Southgate",0.3788
+St Albans,0.3783
+Motherwell and Wishaw,0.3771
+Rutherglen and Hamilton West,0.3757
+Leeds North East,0.3742
+Newry and Armagh,0.3706
+"Cumbernauld, Kilsyth and Kirkintilloch East",0.3699
+"East Kilbride, Strathaven and Lesmahagow",0.3693
+Manchester Central,0.3636
+North East Fife,0.3631
+Inverclyde,0.362
+Lanark and Hamilton East,0.3596
+Arfon,0.3585
+Greenwich and Woolwich,0.3567
+"Birmingham, Ladywood",0.356
+Paisley and Renfrewshire North,0.3555
+Leeds North West,0.3541
+East Lothian,0.354
+Lewisham East,0.3537
+"Liverpool, Wavertree",0.3526
+Paisley and Renfrewshire South,0.348
+Leyton and Wanstead,0.3476
+Lewisham West and Penge,0.3459
+Poplar and Limehouse,0.3421
+"Sheffield, Hallam",0.3401
+Westminster North,0.3365
+"Birmingham, Hall Green",0.336
+Walthamstow,0.3349
+Twickenham,0.3332
+West Tyrone,0.3315
+Hove,0.3295
+South Down,0.3276
+Oxford East,0.3253
+Stirling,0.3228
+Aberdeen South,0.3214
+Cardiff Central,0.3201
+Sheffield Central,0.3191
+Bath,0.3172
+Glasgow North West,0.3149
+Camberwell and Peckham,0.3148
+Hammersmith,0.3131
+Kensington,0.312
+Finchley and Golders Green,0.311
+Bethnal Green and Bow,0.3086
+Belfast South,0.3051
+Wimbledon,0.2937
+Ealing Central and Acton,0.2915
+Chelsea and Fulham,0.291
+Edinburgh West,0.2877
+Glasgow Central,0.2875
+Richmond Park,0.2869
+Islington South and Finsbury,0.2828
+Glasgow South,0.2819
+Cities of London and Westminster,0.2805
+Edinburgh South West,0.2786
+Putney,0.2776
+Edinburgh East,0.2764
+"Liverpool, Riverside",0.273
+East Dunbartonshire,0.2687
+Holborn and St Pancras,0.2666
+Cambridge,0.2623
+Bermondsey and Old Southwark,0.2605
+Belfast West,0.2594
+"Brighton, Pavilion",0.2593
+East Renfrewshire,0.2568
+Tooting,0.2559
+Hornsey and Wood Green,0.2498
+"Manchester, Withington",0.2494
+"Lewisham, Deptford",0.2443
+Tottenham,0.2378
+Hampstead and Kilburn,0.2373
+Dulwich and West Norwood,0.2294
+Hackney South and Shoreditch,0.2278
+Vauxhall,0.2243
+Edinburgh South,0.2215
+Battersea,0.2205
+Edinburgh North and Leith,0.218
+Foyle,0.2174
+Glasgow North,0.2162
+Islington North,0.2161
+Bristol West,0.2071
+Streatham,0.2054
+Hackney North and Stoke Newington,0.2048
